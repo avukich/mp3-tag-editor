@@ -1,0 +1,372 @@
+{
+  "album_type": "album",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+      },
+      "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+      "id": "4tDkeVxH0CSkNiLVrsYmQs",
+      "name": "The Acacia Strain",
+      "type": "artist",
+      "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+    }
+  ],
+  "copyrights": [
+    {
+      "text": "(C) 2005 Prosthetic Records",
+      "type": "C"
+    }
+  ],
+  "external_ids": {
+    "upc": "656191003339"
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/33v7Sxx3pTgNiwu2wBLMxJ"
+  },
+  "genres": [],
+  "href": "https://api.spotify.com/v1/albums/33v7Sxx3pTgNiwu2wBLMxJ",
+  "id": "33v7Sxx3pTgNiwu2wBLMxJ",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://i.scdn.co/image/3b799b6cd2fcd2d44f047d768aa8e88b4decdc70",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://i.scdn.co/image/1fed0e88529fc358a2b8363d310c50ea68d5e080",
+      "width": 300
+    },
+    {
+      "height": 64,
+      "url": "https://i.scdn.co/image/5c7c98623231aca926c8d6c958de35c5f7d57c33",
+      "width": 64
+    }
+  ],
+  "label": "Prosthetic",
+  "name": "The Dead Walk",
+  "popularity": 33,
+  "release_date": "2006-06-13",
+  "release_date_precision": "day",
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/33v7Sxx3pTgNiwu2wBLMxJ/tracks?offset=0&limit=50&market=US",
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 28080,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6nz4ZH41Oym38bWBq9FyEq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6nz4ZH41Oym38bWBq9FyEq",
+        "id": "6nz4ZH41Oym38bWBq9FyEq",
+        "is_playable": true,
+        "name": "Sarin: The End",
+        "preview_url": "https://p.scdn.co/mp3-preview/5b5e857cb30594d07cb30025c2cf14dcd6e25cad?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6nz4ZH41Oym38bWBq9FyEq"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 153653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/57tCkY0YC8dGKOddSmbap0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/57tCkY0YC8dGKOddSmbap0",
+        "id": "57tCkY0YC8dGKOddSmbap0",
+        "is_playable": true,
+        "name": "Burnface",
+        "preview_url": "https://p.scdn.co/mp3-preview/24a3dff4a2570089091bd1c905e5d1018b51d47c?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:57tCkY0YC8dGKOddSmbap0"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 145560,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3BfZUCKRtm855i0RvZsTpm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3BfZUCKRtm855i0RvZsTpm",
+        "id": "3BfZUCKRtm855i0RvZsTpm",
+        "is_playable": true,
+        "name": "4x4",
+        "preview_url": "https://p.scdn.co/mp3-preview/024e2e30cc49130784f9695ab1824d374a00a6ac?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3BfZUCKRtm855i0RvZsTpm"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 194280,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1KBT71BXHwuv6Fv0cijK1i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1KBT71BXHwuv6Fv0cijK1i",
+        "id": "1KBT71BXHwuv6Fv0cijK1i",
+        "is_playable": true,
+        "name": "As If Set Afire",
+        "preview_url": "https://p.scdn.co/mp3-preview/875ce82b244eacac5ad32138a7f3b0f18c08d375?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1KBT71BXHwuv6Fv0cijK1i"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 170680,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mJSQ3o0AtM08Qq3JN6pp4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mJSQ3o0AtM08Qq3JN6pp4",
+        "id": "6mJSQ3o0AtM08Qq3JN6pp4",
+        "is_playable": true,
+        "name": "Angry Mob Justice",
+        "preview_url": "https://p.scdn.co/mp3-preview/e492cfef3f35aef8d103ae38bcca1c7d505df9ee?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:6mJSQ3o0AtM08Qq3JN6pp4"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 178226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3fQWrpsIRK1iwupKnrKFRv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3fQWrpsIRK1iwupKnrKFRv",
+        "id": "3fQWrpsIRK1iwupKnrKFRv",
+        "is_playable": true,
+        "name": "Whoa! Shut It Down",
+        "preview_url": "https://p.scdn.co/mp3-preview/55c3631a75e3b7f1266a11edb09ab82609f40ef3?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3fQWrpsIRK1iwupKnrKFRv"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4OdTyeq4qCXepqucqCeTq2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4OdTyeq4qCXepqucqCeTq2",
+        "id": "4OdTyeq4qCXepqucqCeTq2",
+        "is_playable": true,
+        "name": "See You Next Tuesday",
+        "preview_url": "https://p.scdn.co/mp3-preview/f6d1744fb453903e6a60dcc6fff038cf9d39954b?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4OdTyeq4qCXepqucqCeTq2"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191226,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1NztqYNINrAChx8XESTNwn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NztqYNINrAChx8XESTNwn",
+        "id": "1NztqYNINrAChx8XESTNwn",
+        "is_playable": true,
+        "name": "Demolishor",
+        "preview_url": "https://p.scdn.co/mp3-preview/e73b5a7fbdaabd828aab24a26b1dd74f2d5b09e7?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1NztqYNINrAChx8XESTNwn"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 225786,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3gID3P9Yq1fJyNr2OJwINc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gID3P9Yq1fJyNr2OJwINc",
+        "id": "3gID3P9Yq1fJyNr2OJwINc",
+        "is_playable": true,
+        "name": "Pity",
+        "preview_url": "https://p.scdn.co/mp3-preview/e72774d037eb68ec66a171d8e12f0eb580b128d1?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3gID3P9Yq1fJyNr2OJwINc"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211520,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0O0nVXX0b2HovUuyZCJLdl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0O0nVXX0b2HovUuyZCJLdl",
+        "id": "0O0nVXX0b2HovUuyZCJLdl",
+        "is_playable": true,
+        "name": "Predator: Never Prey",
+        "preview_url": "https://p.scdn.co/mp3-preview/c98d16364eb116de98dc373f57cf9357b3be2b9e?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:0O0nVXX0b2HovUuyZCJLdl"
+      },
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+            },
+            "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+            "id": "4tDkeVxH0CSkNiLVrsYmQs",
+            "name": "The Acacia Strain",
+            "type": "artist",
+            "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+          }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227653,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1N8DFdm57GxXiY8Aq95g5E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1N8DFdm57GxXiY8Aq95g5E",
+        "id": "1N8DFdm57GxXiY8Aq95g5E",
+        "is_playable": true,
+        "name": "The Dead Walk",
+        "preview_url": "https://p.scdn.co/mp3-preview/e437f1909b7d4e66ad96e6a16e7f4c0925edd752?cid=8897482848704f2a8f8d7c79726a70d4",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1N8DFdm57GxXiY8Aq95g5E"
+      }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+  },
+  "type": "album",
+  "uri": "spotify:album:33v7Sxx3pTgNiwu2wBLMxJ"
+}

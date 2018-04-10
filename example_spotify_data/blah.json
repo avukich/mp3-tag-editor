@@ -1,0 +1,498 @@
+{
+  "artists": {
+    "href": "https://api.spotify.com/v1/search?query=Tool&type=artist&market=US&offset=0&limit=20",
+    "items": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zreklnHnGi9Zfr2WhaO5a"
+        },
+        "followers": {
+          "href": null,
+          "total": 103471
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6zreklnHnGi9Zfr2WhaO5a",
+        "id": "6zreklnHnGi9Zfr2WhaO5a",
+        "images": [],
+        "name": "Tool",
+        "popularity": 30,
+        "type": "artist",
+        "uri": "spotify:artist:6zreklnHnGi9Zfr2WhaO5a"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2T5mH4dsb0tlSS3IKyewuF"
+        },
+        "followers": {
+          "href": null,
+          "total": 2882
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2T5mH4dsb0tlSS3IKyewuF",
+        "id": "2T5mH4dsb0tlSS3IKyewuF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/c043bb1fd534cb5cf34573a494f2e90f1bc721b0",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/82ac1b291b9ee4134de08deba7149cc07af86397",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/1e4b75acc9498784600b7937d961a69183e06be0",
+            "width": 160
+          }
+        ],
+        "name": "Tool Castellanos",
+        "popularity": 31,
+        "type": "artist",
+        "uri": "spotify:artist:2T5mH4dsb0tlSS3IKyewuF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4aAdx12o5I7jNyJ1NBWspb"
+        },
+        "followers": {
+          "href": null,
+          "total": 27
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4aAdx12o5I7jNyJ1NBWspb",
+        "id": "4aAdx12o5I7jNyJ1NBWspb",
+        "images": [],
+        "name": "Tool Of The Intelligent Researcher",
+        "popularity": 17,
+        "type": "artist",
+        "uri": "spotify:artist:4aAdx12o5I7jNyJ1NBWspb"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1S0Ny6T7jasqXIX6KcOCCB"
+        },
+        "followers": {
+          "href": null,
+          "total": 27
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1S0Ny6T7jasqXIX6KcOCCB",
+        "id": "1S0Ny6T7jasqXIX6KcOCCB",
+        "images": [],
+        "name": "Tool",
+        "popularity": 2,
+        "type": "artist",
+        "uri": "spotify:artist:1S0Ny6T7jasqXIX6KcOCCB"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3nFiLTY27sDLtht7elCXrS"
+        },
+        "followers": {
+          "href": null,
+          "total": 2
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3nFiLTY27sDLtht7elCXrS",
+        "id": "3nFiLTY27sDLtht7elCXrS",
+        "images": [],
+        "name": "Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:3nFiLTY27sDLtht7elCXrS"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3aqqh6mQCWroTtgvRYQR9n"
+        },
+        "followers": {
+          "href": null,
+          "total": 1761
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3aqqh6mQCWroTtgvRYQR9n",
+        "id": "3aqqh6mQCWroTtgvRYQR9n",
+        "images": [
+          {
+            "height": 600,
+            "url": "https://i.scdn.co/image/9a2e9fcdccddd7605ee153223f6d70c3e78d0cc0",
+            "width": 600
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/2bd70189591ed93233e974266f0c24ea3726dd7f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/d612334c2f701eb64b91b07f7ab3cff329ee233a",
+            "width": 64
+          }
+        ],
+        "name": "S-TOOL",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:3aqqh6mQCWroTtgvRYQR9n"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5CuLwbEvkI931ovZD8hArm"
+        },
+        "followers": {
+          "href": null,
+          "total": 322
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5CuLwbEvkI931ovZD8hArm",
+        "id": "5CuLwbEvkI931ovZD8hArm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/1e232ae1d313bdde2c396ca7d4b90be236cf294b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/081f4bbfc377c36adfbb76bdc3b7ef1ad10a8c65",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/2669362cc6b7fdfc58e1433117b02ee8da1bbbd0",
+            "width": 64
+          }
+        ],
+        "name": "Tool Silence",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:5CuLwbEvkI931ovZD8hArm"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Y30z8B9TQfZwXERT23KCy"
+        },
+        "followers": {
+          "href": null,
+          "total": 23
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2Y30z8B9TQfZwXERT23KCy",
+        "id": "2Y30z8B9TQfZwXERT23KCy",
+        "images": [],
+        "name": "Sonic Tool",
+        "popularity": 3,
+        "type": "artist",
+        "uri": "spotify:artist:2Y30z8B9TQfZwXERT23KCy"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3cV9rZVRcn5cMygEo3dfTf"
+        },
+        "followers": {
+          "href": null,
+          "total": 32
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3cV9rZVRcn5cMygEo3dfTf",
+        "id": "3cV9rZVRcn5cMygEo3dfTf",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/58d7a4d066189c541c4cb65c25e1a02401fe98bd",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/82c6a9a8900b4a9d4a3fc6497603adb5a49e74cb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/d18fdb9ab6d602426a194849224fad317820b822",
+            "width": 64
+          }
+        ],
+        "name": "DJ Tool",
+        "popularity": 4,
+        "type": "artist",
+        "uri": "spotify:artist:3cV9rZVRcn5cMygEo3dfTf"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2hcs5RhruY2EkNj6hrTJY6"
+        },
+        "followers": {
+          "href": null,
+          "total": 53
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2hcs5RhruY2EkNj6hrTJY6",
+        "id": "2hcs5RhruY2EkNj6hrTJY6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/7affa54b86360cd4618cc0e553261c5624a7c674",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/66a71099e53d85a3b9900d168e3e3517c2a55b53",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/5c0a642c352a5b9eaf5a4e604c22a814646e5335",
+            "width": 64
+          }
+        ],
+        "name": "Demon Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:2hcs5RhruY2EkNj6hrTJY6"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5eDQTjwlOUOx0AfYXiW5"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0Y5eDQTjwlOUOx0AfYXiW5",
+        "id": "0Y5eDQTjwlOUOx0AfYXiW5",
+        "images": [],
+        "name": "Same Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:0Y5eDQTjwlOUOx0AfYXiW5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4WcwqLCoslkz0di6co3X3K"
+        },
+        "followers": {
+          "href": null,
+          "total": 128
+        },
+        "genres": [
+          "deep thrash metal"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4WcwqLCoslkz0di6co3X3K",
+        "id": "4WcwqLCoslkz0di6co3X3K",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/1924d46d33dfda8c3c6209af2f4453ca90f90361",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/dd3f66f90fd6a40f06b47b3290a84621878f98f6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/a6d1f2fb0d73d635ae3b67d717fb36c19c0657d2",
+            "width": 64
+          }
+        ],
+        "name": "Torment Tool",
+        "popularity": 1,
+        "type": "artist",
+        "uri": "spotify:artist:4WcwqLCoslkz0di6co3X3K"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7myf9QjY8D434lKGSvPBYw"
+        },
+        "followers": {
+          "href": null,
+          "total": 1
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7myf9QjY8D434lKGSvPBYw",
+        "id": "7myf9QjY8D434lKGSvPBYw",
+        "images": [],
+        "name": "Lug Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:7myf9QjY8D434lKGSvPBYw"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2bgIm8J0m2EjxUr3JQLdjC"
+        },
+        "followers": {
+          "href": null,
+          "total": 16
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2bgIm8J0m2EjxUr3JQLdjC",
+        "id": "2bgIm8J0m2EjxUr3JQLdjC",
+        "images": [],
+        "name": "Jah Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:2bgIm8J0m2EjxUr3JQLdjC"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7xQPg6AUG2ukujASyiKE7R"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7xQPg6AUG2ukujASyiKE7R",
+        "id": "7xQPg6AUG2ukujASyiKE7R",
+        "images": [],
+        "name": "Mr. Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:7xQPg6AUG2ukujASyiKE7R"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/016gxnVRPslyyJbzJtnmue"
+        },
+        "followers": {
+          "href": null,
+          "total": 6
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/016gxnVRPslyyJbzJtnmue",
+        "id": "016gxnVRPslyyJbzJtnmue",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/896c5193b023aded93e8419ab08bc966d8ae93c2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/2747aa31bbe80d1cf6052712da0cb7cba7c5f2a4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/b02252217dc9edc1aa015b3f9f781f2c079ecc48",
+            "width": 64
+          }
+        ],
+        "name": "Left Tool",
+        "popularity": 2,
+        "type": "artist",
+        "uri": "spotify:artist:016gxnVRPslyyJbzJtnmue"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YfzfCMXOHZzvKb5ZVgLe5"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2YfzfCMXOHZzvKb5ZVgLe5",
+        "id": "2YfzfCMXOHZzvKb5ZVgLe5",
+        "images": [],
+        "name": "Tool Pad",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:2YfzfCMXOHZzvKb5ZVgLe5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7ExzS10ApOhQ13xXlZqeyP"
+        },
+        "followers": {
+          "href": null,
+          "total": 0
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/7ExzS10ApOhQ13xXlZqeyP",
+        "id": "7ExzS10ApOhQ13xXlZqeyP",
+        "images": [],
+        "name": "Hans Tool",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:7ExzS10ApOhQ13xXlZqeyP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3gk1kooEBO99UdVz8k2rjK"
+        },
+        "followers": {
+          "href": null,
+          "total": 26
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3gk1kooEBO99UdVz8k2rjK",
+        "id": "3gk1kooEBO99UdVz8k2rjK",
+        "images": [
+          {
+            "height": 600,
+            "url": "https://i.scdn.co/image/93f90e950ce7b44ccef0a42cd0f12de9fba62408",
+            "width": 600
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/d0b57af728516fda0c286392c783594502952172",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ec400ca4c921ecb9e97fcb54582a42951d89753b",
+            "width": 64
+          }
+        ],
+        "name": "SONGWRITER TOOL",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:3gk1kooEBO99UdVz8k2rjK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2AouSuBq7TNd49QEL18Eno"
+        },
+        "followers": {
+          "href": null,
+          "total": 44
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2AouSuBq7TNd49QEL18Eno",
+        "id": "2AouSuBq7TNd49QEL18Eno",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/f28f9cd564d8d3d3014f3722a9d0a3b90f9177fb",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/43fc01ba5e77b5bcd86d1ea3525bf090642f3c7a",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/f2a76a78760a71e95d2a9c4b0f08b8bc1d5526a7",
+            "width": 160
+          }
+        ],
+        "name": "Tool Shed",
+        "popularity": 1,
+        "type": "artist",
+        "uri": "spotify:artist:2AouSuBq7TNd49QEL18Eno"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=Tool&type=artist&market=US&offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 59
+  }
+}

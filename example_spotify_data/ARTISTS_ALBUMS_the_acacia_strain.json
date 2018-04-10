@@ -1,0 +1,1698 @@
+{
+  "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs/albums?offset=0&limit=50&album_type=single,album,compilation,appears_on,ep",
+  "items": [
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/17xDx4Dx8v0KaGExvSl238"
+      },
+      "href": "https://api.spotify.com/v1/albums/17xDx4Dx8v0KaGExvSl238",
+      "id": "17xDx4Dx8v0KaGExvSl238",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/eb34c1a279ff4b79e42546f9e35736e7bf53155f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/03d11e77bcd47c4b6c956cd9ff207178011fbdc3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/25fbe9eb69e5611915557c3aef3312c19a2cf4d8",
+          "width": 64
+        }
+      ],
+      "name": "Gravebloom",
+      "type": "album",
+      "uri": "spotify:album:17xDx4Dx8v0KaGExvSl238"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1lRmsinfUZFbvSXivkLLpG"
+      },
+      "href": "https://api.spotify.com/v1/albums/1lRmsinfUZFbvSXivkLLpG",
+      "id": "1lRmsinfUZFbvSXivkLLpG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/83ab0c2b0b7da3cf1d6adb0ae5e1879838922182",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/fd123e70bf8eb44cf58c7b9e219ed5dac1c0f3ce",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5026ab7cc0c403b44a6ef9f61b0a4113fd63d1d9",
+          "width": 64
+        }
+      ],
+      "name": "Coma Witch",
+      "type": "album",
+      "uri": "spotify:album:1lRmsinfUZFbvSXivkLLpG"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0PdFGqwjkx5UlX6KTzy3yd"
+      },
+      "href": "https://api.spotify.com/v1/albums/0PdFGqwjkx5UlX6KTzy3yd",
+      "id": "0PdFGqwjkx5UlX6KTzy3yd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ba35e6162f8e1fa466b050fe3fcf0e6b57e42bd6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/aaef894d9ce1a171e138829fa5c5340ac5e56bf8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d76bda7d7c031c1cee3bc7c909ea90a0f17b586c",
+          "width": 64
+        }
+      ],
+      "name": "Death Is The Only Mortal",
+      "type": "album",
+      "uri": "spotify:album:0PdFGqwjkx5UlX6KTzy3yd"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2hI69hrnoOaEajnv4SEGNC"
+      },
+      "href": "https://api.spotify.com/v1/albums/2hI69hrnoOaEajnv4SEGNC",
+      "id": "2hI69hrnoOaEajnv4SEGNC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/8b53917317d671299e6ef5cf5733a291e4178137",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e7cb5fd5c9edd4280ba391d1bc9665a9552fd898",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/d0de941b18049992ccce46498aef79406dd79955",
+          "width": 64
+        }
+      ],
+      "name": "The Most Known Unknown",
+      "type": "album",
+      "uri": "spotify:album:2hI69hrnoOaEajnv4SEGNC"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5pZD06jMRqNicKO4AlcK06"
+      },
+      "href": "https://api.spotify.com/v1/albums/5pZD06jMRqNicKO4AlcK06",
+      "id": "5pZD06jMRqNicKO4AlcK06",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/67622696e45f09108e3607fc2fea05714e950f6e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/055acface0142bd324d95cb4142f7035d6040574",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/72fc475735d6ced1d8592f617495b14571a9edb0",
+          "width": 64
+        }
+      ],
+      "name": "Wormwood",
+      "type": "album",
+      "uri": "spotify:album:5pZD06jMRqNicKO4AlcK06"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6xZcn6pISan8YaoEYuSE9P"
+      },
+      "href": "https://api.spotify.com/v1/albums/6xZcn6pISan8YaoEYuSE9P",
+      "id": "6xZcn6pISan8YaoEYuSE9P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/122c336c4eea1a6527ca8e8868e8fbcfe8e58123",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/5843b444406cf60949e14bc5ecd03fcb3fdbc290",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fc0d9209039ae67cf59cb0c5ec4ff972b613d3d2",
+          "width": 64
+        }
+      ],
+      "name": "Continent",
+      "type": "album",
+      "uri": "spotify:album:6xZcn6pISan8YaoEYuSE9P"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/33v7Sxx3pTgNiwu2wBLMxJ"
+      },
+      "href": "https://api.spotify.com/v1/albums/33v7Sxx3pTgNiwu2wBLMxJ",
+      "id": "33v7Sxx3pTgNiwu2wBLMxJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/3b799b6cd2fcd2d44f047d768aa8e88b4decdc70",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/1fed0e88529fc358a2b8363d310c50ea68d5e080",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5c7c98623231aca926c8d6c958de35c5f7d57c33",
+          "width": 64
+        }
+      ],
+      "name": "The Dead Walk",
+      "type": "album",
+      "uri": "spotify:album:33v7Sxx3pTgNiwu2wBLMxJ"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3ymuwL9oPX0ePGEYggfKFo"
+      },
+      "href": "https://api.spotify.com/v1/albums/3ymuwL9oPX0ePGEYggfKFo",
+      "id": "3ymuwL9oPX0ePGEYggfKFo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/65ffb1526317dc8e588d6198757049257adbbefe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/f47b9b44292a8e9c8439557d5e613b67039003dd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/af31ed42d1db96b8f00dd01c783a882fbe3bd051",
+          "width": 64
+        }
+      ],
+      "name": "3750",
+      "type": "album",
+      "uri": "spotify:album:3ymuwL9oPX0ePGEYggfKFo"
+    },
+    {
+      "album_type": "album",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0hOKKCALixzlhmX83GRQAD"
+      },
+      "href": "https://api.spotify.com/v1/albums/0hOKKCALixzlhmX83GRQAD",
+      "id": "0hOKKCALixzlhmX83GRQAD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/18065792bd159f966be2663b462d53619f09e6b1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/0bc65d9e9c62531ed6ad6012bf699334394dee4c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2603887926be6c01df42d71f737f7bdaaee84264",
+          "width": 64
+        }
+      ],
+      "name": "...and Life Is Very Long",
+      "type": "album",
+      "uri": "spotify:album:0hOKKCALixzlhmX83GRQAD"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6jsQQW60177U0nvQaHW0B8"
+      },
+      "href": "https://api.spotify.com/v1/albums/6jsQQW60177U0nvQaHW0B8",
+      "id": "6jsQQW60177U0nvQaHW0B8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/5505437f10cff58a2f31406723b106bf1be5b653",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/c3b26c8f53175edc72e87a1d0088a1c2fb21678c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/410dc9c3941ce60f08e54bac5b6394898a4d0be9",
+          "width": 64
+        }
+      ],
+      "name": "Big Sleep",
+      "type": "album",
+      "uri": "spotify:album:6jsQQW60177U0nvQaHW0B8"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1ipMylUhZdAu2fQHOTlZsX"
+      },
+      "href": "https://api.spotify.com/v1/albums/1ipMylUhZdAu2fQHOTlZsX",
+      "id": "1ipMylUhZdAu2fQHOTlZsX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/eb34c1a279ff4b79e42546f9e35736e7bf53155f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/03d11e77bcd47c4b6c956cd9ff207178011fbdc3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/25fbe9eb69e5611915557c3aef3312c19a2cf4d8",
+          "width": 64
+        }
+      ],
+      "name": "Bitter Pill",
+      "type": "album",
+      "uri": "spotify:album:1ipMylUhZdAu2fQHOTlZsX"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/01cvc8DnFPfkxY10lsBs2t"
+      },
+      "href": "https://api.spotify.com/v1/albums/01cvc8DnFPfkxY10lsBs2t",
+      "id": "01cvc8DnFPfkxY10lsBs2t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a590dbc3c10d9eb38b1874e5fce6f91b46a9de5d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ef60aaaaf29da5d0e27215d15d3cb56155372370",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6e6652f2f51284aa8c48e69c1da11acf9ebc0156",
+          "width": 64
+        }
+      ],
+      "name": "Above / Below",
+      "type": "album",
+      "uri": "spotify:album:01cvc8DnFPfkxY10lsBs2t"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/35V4IkiF5SYNhp7vOoPupq"
+      },
+      "href": "https://api.spotify.com/v1/albums/35V4IkiF5SYNhp7vOoPupq",
+      "id": "35V4IkiF5SYNhp7vOoPupq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/83fae1daa480c8df5aa399212a1aeabf7c4c2971",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/80ac87ac539dbed156e12fb9619d051dcee104b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/acf29f30b53392825a9af9d79e3216bce8089143",
+          "width": 64
+        }
+      ],
+      "name": "Jonestown (Alternate Version)",
+      "type": "album",
+      "uri": "spotify:album:35V4IkiF5SYNhp7vOoPupq"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3et9upNERQI5IYt5jEDTxM",
+          "id": "3et9upNERQI5IYt5jEDTxM",
+          "name": "Thy Art Is Murder",
+          "type": "artist",
+          "uri": "spotify:artist:3et9upNERQI5IYt5jEDTxM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qJpY7K8p7g6sacvaGNt6i",
+          "id": "0qJpY7K8p7g6sacvaGNt6i",
+          "name": "Fit For An Autopsy",
+          "type": "artist",
+          "uri": "spotify:artist:0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4uPogNv08hYdO7nl6AD4j8"
+      },
+      "href": "https://api.spotify.com/v1/albums/4uPogNv08hYdO7nl6AD4j8",
+      "id": "4uPogNv08hYdO7nl6AD4j8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/36f26108f1aad91b33c04003b82c2a3c9d1d7970",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ca7e5e48f925bbb25db822c082d34d4f86647c3a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2daeff67900305c2c89c564cb04724da8c85ae69",
+          "width": 64
+        }
+      ],
+      "name": "The Depression Sessions",
+      "type": "album",
+      "uri": "spotify:album:4uPogNv08hYdO7nl6AD4j8"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+          },
+          "href": "https://api.spotify.com/v1/artists/3et9upNERQI5IYt5jEDTxM",
+          "id": "3et9upNERQI5IYt5jEDTxM",
+          "name": "Thy Art Is Murder",
+          "type": "artist",
+          "uri": "spotify:artist:3et9upNERQI5IYt5jEDTxM"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+          },
+          "href": "https://api.spotify.com/v1/artists/0qJpY7K8p7g6sacvaGNt6i",
+          "id": "0qJpY7K8p7g6sacvaGNt6i",
+          "name": "Fit For An Autopsy",
+          "type": "artist",
+          "uri": "spotify:artist:0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0f0Y9j72xThm1W921WnG6A"
+      },
+      "href": "https://api.spotify.com/v1/albums/0f0Y9j72xThm1W921WnG6A",
+      "id": "0f0Y9j72xThm1W921WnG6A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c5732431a70c616960d6fb5f9f0c5ddf17565df7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/016c08193ef0d59c1a35d44143124f239ee94db5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/174c0a037fef9c025ecbf1f35823ba864ac9fdb1",
+          "width": 64
+        }
+      ],
+      "name": "The Depression Sessions",
+      "type": "album",
+      "uri": "spotify:album:0f0Y9j72xThm1W921WnG6A"
+    },
+    {
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          },
+          "href": "https://api.spotify.com/v1/artists/4tDkeVxH0CSkNiLVrsYmQs",
+          "id": "4tDkeVxH0CSkNiLVrsYmQs",
+          "name": "The Acacia Strain",
+          "type": "artist",
+          "uri": "spotify:artist:4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IS",
+        "IT",
+        "JP",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "PY",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TR",
+        "TW",
+        "US",
+        "UY"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/2VT9v4ecVq7qOTR6EMQBri"
+      },
+      "href": "https://api.spotify.com/v1/albums/2VT9v4ecVq7qOTR6EMQBri",
+      "id": "2VT9v4ecVq7qOTR6EMQBri",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/c0b6e375e61c8758a61b2cad414060ebd094f286",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/e90cad75a77805c7041d833d784650d39d08b805",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/15cff44ce996afdacd169335565909bab4f8e59c",
+          "width": 64
+        }
+      ],
+      "name": "Money for Nothing",
+      "type": "album",
+      "uri": "spotify:album:2VT9v4ecVq7qOTR6EMQBri"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 16
+}
